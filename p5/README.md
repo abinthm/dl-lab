@@ -58,6 +58,9 @@ Correct:  ✓  ✓  ✗  ✓  ✓  ✓
 Accuracy: 0.8333333333333334
 ```
 
+### Output Screenshot
+![Accuracy Score Results](i5.png)
+
 ## Accuracy Characteristics
 ### Advantages:
 - **Simple to understand**: Intuitive metric (percentage of correct predictions)

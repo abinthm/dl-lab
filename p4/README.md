@@ -50,6 +50,9 @@ Confusion Matrix:
  [1 2]]
 ```
 
+### Output Screenshot
+![Confusion Matrix Results](i4.png)
+
 ### Matrix Interpretation:
 - **[3, 0]**: 3 True Negatives (0→0), 0 False Positives (0→1)
 - **[1, 2]**: 1 False Negative (1→0), 2 True Positives (1→1)

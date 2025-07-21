@@ -50,6 +50,9 @@ A line plot showing:
 - Labeled axes and title
 - Values ranging from 1-5 on x-axis and 2-6 on y-axis
 
+### Output Screenshot
+![Basic Line Plot](i3.png)
+
 ## Visualization Best Practices Demonstrated
 - **Clear Labeling**: Both axes and plot have descriptive labels
 - **Grid Usage**: Makes it easier to read values

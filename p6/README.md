@@ -57,6 +57,9 @@ For the given dataset, the model will output:
 - Grid for better readability
 - Proper labels and legend
 
+### Output Screenshot
+![Linear Regression Visualization](i6.png)
+
 ## Model Interpretation
 The linear regression finds the best-fit line through the data points:
 - **Positive slope**: Indicates positive correlation between X and y

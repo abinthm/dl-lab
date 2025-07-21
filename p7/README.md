@@ -46,6 +46,9 @@ This project demonstrates histogram equalization technique for enhancing image c
 - **Input**: `road.png` - Original road scene image
 - **Output**: `histogram_equalization_result.png` - Comparison showing original vs equalized image
 
+### Output Screenshot
+![Histogram Equalization Results](histogram_equalization_result.png)
+
 ## Why HSV Color Space?
 - **Preserves Color Information**: By equalizing only the V (brightness) channel, we enhance contrast without affecting the hue and saturation
 - **Natural Brightness Enhancement**: HSV separates brightness from color information, making it ideal for contrast enhancement

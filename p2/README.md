@@ -42,6 +42,9 @@ Normalized Data:
  [1.0]]   # 100 → 1.0 (maximum)
 ```
 
+### Output Screenshot
+![Data Normalization Results](i2.png)
+
 ## Why Normalization?
 - **Scale Independence**: Ensures all features contribute equally to machine learning models
 - **Faster Convergence**: Helps optimization algorithms converge faster

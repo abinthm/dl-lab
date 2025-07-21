@@ -36,6 +36,9 @@ Mode: 20
 Standard Deviation: 13.80
 ```
 
+### Output Screenshot
+![Statistical Analysis Results](i1.png)
+
 ## Files
 - `p1.py`: Main Python script with statistical calculations
 - `README.md`: This documentation file
